@@ -6,10 +6,10 @@
   "scope": "/",
   "display": "standalone",
   "start_url": "https://aec4450b3847.ngrok.io/",
-  "background_color": "transparent",
-  "theme_color": "transparent",
+  "background_color": "#000000",
+  "theme_color": "#000000",
   "orientation": "any",
-  "prefer_related_applications": "false",
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "images/71x71.png",
@@ -683,5 +683,6 @@
       "sizes": "1024x1024",
       "purpose": "any"
     }
-  ]
+  ],
+  "description": "My first PWA"
 }
